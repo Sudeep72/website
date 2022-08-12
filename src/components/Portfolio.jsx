@@ -1,6 +1,7 @@
 import React from "react";
 import kuiz from "../assets/portfolio/kuiz.png";
 import music from "../assets/portfolio/music.png";
+import brainy from "../assets/portfolio/brainy.png";
 /*import navbar from "../assets/portfolio/navbar.jpg";
 import reactParallax from "../assets/portfolio/reactParallax.jpg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
@@ -16,11 +17,11 @@ const Portfolio = () => {
       id: 3,
       src: music,
     },
-    /*{
-      id: 3,
-      src: navbar,
-    },
     {
+      id: 3,
+      src: brainy,
+    },
+    /*{
       id: 4,
       src: reactSmooth,
     },
